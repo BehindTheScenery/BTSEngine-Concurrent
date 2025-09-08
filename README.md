@@ -10,7 +10,7 @@ Please note, that this mod is in ALPHA stage of development. Something may break
 At the moment of writing, performance boost may vary from the modpack and the user's PC setup.
 
 ## Known Incompatibilities and Notices
-While we aim to make this mod to be compatible with your favourite mods where possible, some mods may require some patches to work with this mods. Feel free to file an issue if there are any other incompatibilities we don't know.
+While we aim to make this mod to be compatible with your favourite mods where possible, some mods may require some patches to work with Behind The Scenery Engine: Concurrent. Feel free to file an issue if there are any other incompatibilities we don't know.
 
 ### Somewhat Compatible (see notes)
 - [Confluence: Otherworld](https://www.curseforge.com/minecraft/mc-mods/confluence)
