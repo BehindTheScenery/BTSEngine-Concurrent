@@ -2,8 +2,8 @@
 _Performance go brrr._
 
 ## What is this?
-Behind The Scenery Engine: Concurrent is a massive optimization mod featuring multithreading, deadlock elimination mechanism, lock-free synchronization utilizing CAS/Lock-Free architectures providing significant performance boost on servers.
-Instead of many other attempts to recreate multithreading, we were using a more invasive approach. We've tried to optimize everything we could touch without breaking most mods. 
+Behind The Scenery Engine: Concurrent is a massive optimization mod featuring multithreading, deadlock elimination mechanism, lock-free synchronization by utilizing CAS/Lock-Free architectures. This mod provides significant performance boost on servers and singleplayer worlds.
+Instead of many other attempts to recreate multithreading, we were using a more invasive approach. We've tried to optimize everything we could touch without breaking most mods by reworking Minecraft pipelines.
 
 Please note, that this mod is in ALPHA stage of development. Something may break. Something may crash. **Here be dragons, do backups.**
 
