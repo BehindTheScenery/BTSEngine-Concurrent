@@ -55,9 +55,13 @@ THE SOFTWARE.
 
 You can use this mod in any public modpacks hosted across CurseForge and Modrinth without written permission to mod owner or authors.
 
+You can also use this mod in any modpacks or projects on other websites, but you need to credit back to mod official respective pages.
+
 You can use this mod in any, original or modified, form in private modpacks as long as they're not released into public. 
 
-You can freely create videos and/or livestreams with this mod, crediting that you are using this mod is advised, but not required.
+You can freely, free of charge, create videos and/or livestreams with this mod, crediting that you are using this mod is advised, but not required.
 
-You cannot modify this mod without written permission from the mod owner or authors if owner is unaccessible. You cannot claim this mod as yours in any possible way.
+You cannot modify this mod without written permission for the public modpacks or projects from the mod owner or authors if owner is unaccessible. 
+
+You cannot claim this mod as yours in any possible way.
 ```
