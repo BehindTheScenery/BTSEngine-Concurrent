@@ -28,6 +28,9 @@ While we aim to make this mod to be compatible with your favourite mods where po
 - [Concurrent Chunk Management Engine (C2ME)](https://www.curseforge.com/minecraft/mc-mods/c2me)
   - Does not proceed to the Main Menu.
   - This mod uses various mixins and patches across the chunk management system making this incompatible. This mod aims to do the same thing in a more friendly and compatible way than Behind The Scenery Engine: Concurrent.
+-   [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
+    - Does not proceed to the Main Menu.
+    - Technically, it is obsolete if it is installed with Behind The Scenery Engine: Concurrent, because we do mostly all the same tricks of Noisium, but in a proper and structured way in terms of lock-free/CAS architecture. Even if it launches somehow or will launch eventually, there won't be any performance boost from the Noisium side.
 
 ## How to use?
 For players, just download a mod file called `btsengine-concurrent-x.x.x.jar`, put into the `mods` folder and run the game. That's it!
