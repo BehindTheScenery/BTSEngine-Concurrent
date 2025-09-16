@@ -16,6 +16,9 @@ While we aim to make this mod to be compatible with your favourite mods where po
 - [Confluence: Otherworld](https://www.curseforge.com/minecraft/mc-mods/confluence)
   - Proceeds to the Main Menu. The game loads the world successfully.
   - If the mod is present in the modpack, there will be small, or nearly to no performance improvement in the modpack. This happens due to attempt to read `PalettedContainer` data each tick, because the mod have Corruption and Crimson biomes that are mutable and spread all over the world making the game load rates much slower and this whole mod inefficient. However, there won't be any issues with the mod itself, only degraded performance. Requires a bunch of patches to their biome code to resolve this.
+- [Async](https://modrinth.com/mod/async)
+  - Proceeds to the Main Menu, but the game crashes on world generation sometimes.
+  - However, if you randomly manage to not crash the game using `0.1.7.alpha.7` or later builds, then you'll be able to play as intended? It is unknown if the performance will be boosted from the Async side, but the modpack probably will work as intended, but some stuff may arise like frozen deadlocked entities or something like this.
 
 ### Incompatible
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
