@@ -71,3 +71,11 @@ You cannot modify this mod without written permission for the public modpacks or
 
 You cannot claim this mod as yours in any possible way.
 ```
+
+## Used libraries and open-source projects.
+
+If you believe that we forgot something, please raise up an Issue so we could fix it immediately, thank you, humans can make mistakes too.
+
+- [FlowSched](https://github.com/RelativityMC/FlowSched) (Licensed and used under MIT License)
+- Some minor parts of [C2ME](https://www.curseforge.com/minecraft/mc-mods/c2me) by ishland may present in 0.1.x builds, which is licensed and used under MIT License.
+- [java-async-util](https://www.curseforge.com/minecraft/mc-mods/c2me) (Licensed and used under Apache 2.0 License)
