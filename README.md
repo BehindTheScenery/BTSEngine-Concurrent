@@ -78,4 +78,4 @@ If you believe that we forgot something, please raise up an Issue so we could fi
 
 - [FlowSched](https://github.com/RelativityMC/FlowSched) (Licensed and used under MIT License)
 - Some minor parts of [C2ME](https://www.curseforge.com/minecraft/mc-mods/c2me) by ishland may present in 0.1.x builds, which is licensed and used under MIT License.
-- [java-async-util](https://www.curseforge.com/minecraft/mc-mods/c2me) (Licensed and used under Apache 2.0 License)
+- [java-async-util](https://github.com/IBM/java-async-util) (Licensed and used under Apache 2.0 License)
